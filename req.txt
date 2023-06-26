@@ -1,0 +1,12 @@
+pyside6
+pyqtq6
+pyqt6-tools
+
+
+ultralytics
+numpy
+opencv-python
+torch
+face-recognition
+dlib
+tensorflow
